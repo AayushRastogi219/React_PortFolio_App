@@ -1,0 +1,50 @@
+.services h2{
+  color: #fff!important;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.services h3{
+  color: #ecb807!important;
+  margin: 0;
+}
+.services{
+  text-align: center;
+  background-color: #1d809f!important;
+  box-sizing: border-box;
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+.services > .row{
+  display:flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 0;
+  color: #fff!important;
+  padding-right: 15px;
+  padding-left: 15px;
+  min-height: 1px;
+  position: relative;
+}
+.roundedCircle {
+  margin-left: auto!important;
+  margin-right: auto!important;
+  margin-bottom: 1rem!important;
+  border-radius: 50%!important;
+  background-color: #fff;
+  color: #1d809f;
+  height: 7rem;
+  width: 7rem;
+  display: inline-block;
+  line-height: 7.5rem;
+  text-align: center!important;
+}
+.services p{
+  text-align: center!important;
+  margin-bottom: 0!important;
+  display: block;
+  padding-right: 4%;
+  padding-left: 4%;
+}
+section{
+  text-align: center!important;
+}

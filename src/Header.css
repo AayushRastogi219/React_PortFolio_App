@@ -1,0 +1,29 @@
+header{
+  /* background-image:  url('./image/bg-masthead.jpg'); */
+  background: url('./image/bg-masthead.jpg');
+  height: 1000px;
+  /* background-position: center;
+  background-repeat: no-repeat; */
+  background-size: cover;
+  text-align: center;
+}
+h1{
+  font-size: 5em;
+  margin: 0;
+  padding-top: 400px;
+}
+h2{
+  font-style: italic;
+}
+ .anchor{
+  vertical-align: middle;
+  text-decoration: none;
+  background-color: #1d809f!important;
+  border-color: #1d809f!important;
+  color: #fff!important;
+  font-weight: 700;
+  border-radius: .25rem;
+  padding: 1.25rem 2.5rem;
+  box-shadow: 0 3px 3px 0 rgba(0,0,0,.1);
+  display: inline-block;
+}

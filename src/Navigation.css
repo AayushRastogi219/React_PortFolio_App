@@ -1,0 +1,32 @@
+.logo{
+  color: white;
+  font-size: 30px;
+}
+.selected{
+  color: white;
+  text-decoration:none
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+  /* background-color: rgb(29, 128, 159); */
+  align-items: center;
+  /* padding-left: 20px;
+  padding-right: 20px; */
+}
+/* nav ul{
+  list-style: none;
+  display: inline-block;
+  background-color: rgb(29, 128, 159);
+}
+nav ul li{
+  display:inline-block;
+  margin-right: 8px;
+  text-decoration-line: none;
+  color: white;
+
+} */
+a{
+  /* color: #fff!important; */
+  text-decoration: none;
+}

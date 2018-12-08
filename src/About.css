@@ -1,0 +1,33 @@
+.about{
+  text-align: center;
+  padding-top: 7.5rem;
+  padding-bottom: 7.5rem;
+  box-sizing: border-box;
+  display: block;
+  line-height: 1.5;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #f8f9fa!important;
+}
+.about h2{
+  margin-bottom: .5rem;
+  color:#343a40;
+}
+.about h3{
+  margin-bottom: 3rem!important;
+  color:#343a40;
+}
+.about a{
+  vertical-align: middle;
+  text-decoration: none;
+  background-color: #343a40;
+  border-color: #343a40;
+  color: #fff!important;
+  font-weight: 700;
+  border-radius: .25rem;
+  padding: 1.25rem 2.5rem;
+  box-shadow: 0 3px 3px 0 rgba(0,0,0,.1);
+  display: inline-block;
+}
